@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ege I graduated from İzmir Institute of Technology with a degree in Electronics and Communication Engineering in 2024. I’m currently working as a Machine Learning Engineer at HubX, where I focus on generative AI and computer vision projects. </h1>
+<h1>Hi 👋, I'm Ege  </h1>
 <p>A passionate Machine Learning Engineer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
